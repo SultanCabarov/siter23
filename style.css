@@ -1,0 +1,46 @@
+body{
+    background: greenyellow;
+}
+header{
+    background: darkred;
+    h1{
+        text-align: center;
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 3em;
+        font-weight: 800;
+        letter-spacing: 4px;
+        word-spacing: 6px;
+        padding: 20px ;
+    }
+}
+nav{
+
+}
+menu{
+    list-style: none;
+    background-color: darkorchid;
+    
+   
+}
+li{
+    display: inline-block;
+    margin: 30px 30px;
+    
+    
+}
+ 
+    a{
+        color: darkgoldenrod;
+        background-color: darkolivegreen;
+        text-decoration: none;
+        padding: 10px;
+        width: 60px;
+        
+    }
+main{
+
+}
+footer{
+
+}
